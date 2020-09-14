@@ -1,2 +1,2 @@
 # Golang-Concurrency-Demo
-Here is a little 
+This is a demonstration using Concurrency in Go. 
